@@ -11,7 +11,7 @@
             android:id="@+id/header"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="FORM PENDAFTARAN"
+            android:text="FORM PENDAFTARANn"
             android:textColor="@color/blue"
             android:textSize="20dp"
             android:textStyle="bold"
